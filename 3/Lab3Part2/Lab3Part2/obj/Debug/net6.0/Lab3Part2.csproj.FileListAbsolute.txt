@@ -1,0 +1,14 @@
+C:\SAIT\terms\Fall 2023\OOP 2\labs\3\Lab3Part2\Lab3Part2\bin\Debug\net6.0\Lab3Part2.exe
+C:\SAIT\terms\Fall 2023\OOP 2\labs\3\Lab3Part2\Lab3Part2\bin\Debug\net6.0\Lab3Part2.deps.json
+C:\SAIT\terms\Fall 2023\OOP 2\labs\3\Lab3Part2\Lab3Part2\bin\Debug\net6.0\Lab3Part2.runtimeconfig.json
+C:\SAIT\terms\Fall 2023\OOP 2\labs\3\Lab3Part2\Lab3Part2\bin\Debug\net6.0\Lab3Part2.dll
+C:\SAIT\terms\Fall 2023\OOP 2\labs\3\Lab3Part2\Lab3Part2\bin\Debug\net6.0\Lab3Part2.pdb
+C:\SAIT\terms\Fall 2023\OOP 2\labs\3\Lab3Part2\Lab3Part2\obj\Debug\net6.0\Lab3Part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\SAIT\terms\Fall 2023\OOP 2\labs\3\Lab3Part2\Lab3Part2\obj\Debug\net6.0\Lab3Part2.AssemblyInfoInputs.cache
+C:\SAIT\terms\Fall 2023\OOP 2\labs\3\Lab3Part2\Lab3Part2\obj\Debug\net6.0\Lab3Part2.AssemblyInfo.cs
+C:\SAIT\terms\Fall 2023\OOP 2\labs\3\Lab3Part2\Lab3Part2\obj\Debug\net6.0\Lab3Part2.csproj.CoreCompileInputs.cache
+C:\SAIT\terms\Fall 2023\OOP 2\labs\3\Lab3Part2\Lab3Part2\obj\Debug\net6.0\Lab3Part2.dll
+C:\SAIT\terms\Fall 2023\OOP 2\labs\3\Lab3Part2\Lab3Part2\obj\Debug\net6.0\refint\Lab3Part2.dll
+C:\SAIT\terms\Fall 2023\OOP 2\labs\3\Lab3Part2\Lab3Part2\obj\Debug\net6.0\Lab3Part2.pdb
+C:\SAIT\terms\Fall 2023\OOP 2\labs\3\Lab3Part2\Lab3Part2\obj\Debug\net6.0\Lab3Part2.genruntimeconfig.cache
+C:\SAIT\terms\Fall 2023\OOP 2\labs\3\Lab3Part2\Lab3Part2\obj\Debug\net6.0\ref\Lab3Part2.dll
